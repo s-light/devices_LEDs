@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_RGB_Pinswap1
+D LED RGB 6 pins
+K LED, SMD, THT, RGB,
+$ENDCMP
+#
+#End Doc Library
